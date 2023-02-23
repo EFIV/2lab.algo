@@ -10,7 +10,7 @@ int main() {
     printf("Введіть друге число: ");
     scanf("%lf", &num2);
 
-    remainder = num1 fmod num2;  // обчислення залишку від ділення
+    remainder = num1 fmod num2;  // обчислення залишку ділення
     difference = num2 - num1;  // обчислення різниці
     sum = num1 + num2;  // обчислення суми
 
